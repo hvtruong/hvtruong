@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hvtruong
 - 👀 I’m interested in coding interesing projects and solving mathematical problems.
-- 🌱 I’m currently learning Computing Science in SFU.
+- 🌱 I’m a freshly graduated Computing Science from SFU.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: contact me via hvtruong@sfu.ca
 
